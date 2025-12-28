@@ -4,7 +4,7 @@
 
 I am a Computer Science undergraduate at Chulalongkorn University (GPA 4.00) with a focus on Applied Machine Learning, Computer Vision, and Mathematical Optimization.
 
-### ⚠️ Note on Public Repositories
+### Note on Public Repositories
 
 Most of my recent development work involves proprietary datasets (Medical Imaging, Financial Risk Data) and confidential research protected by Non-Disclosure Agreements (NDAs). Consequently, I cannot make the source code for these projects public.
 
