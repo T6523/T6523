@@ -2,7 +2,7 @@
 
 **Computer Science Student (B.E.) | Data Science & Machine Learning**
 
-I am a Computer Science undergraduate at Chulalongkorn University (GPA 4.00) with a focus on Applied Machine Learning, Computer Vision, and Mathematical Optimization.
+I am a Computer Science undergraduate at Chulalongkorn University (GPA 4.00) with a focus on data science.
 
 ### Note on Public Repositories
 
